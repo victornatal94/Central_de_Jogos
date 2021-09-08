@@ -1,2 +1,2 @@
 # Central_de_jogos
- Primeiro projeto em python onde montei uma central com algumas opções de jogos
+ Meu primeiro projeto em python, onde montei uma central de escolha com algumas opções de jogos.
