@@ -5,6 +5,7 @@ import Jokenpo
 import pong
 
 print('*'*20)
+print('Bem vindxs a Central de Jogos')
 print('Escolha seu jogo!')
 print('*'*20)
 
