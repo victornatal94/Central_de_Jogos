@@ -2,12 +2,13 @@ import adivinhacao
 import forca
 import Par_impar
 import Jokenpo
+import pong
 
 print('*'*20)
 print('Escolha seu jogo!')
 print('*'*20)
 
-print('(1) Jogo da Forca (2) Adivinhação (3) Par ou Ímpar (4) Jo Ken Po')
+print('(1) Jogo da Forca (2) Adivinhação (3) Par ou Ímpar (4) Jo Ken Po (5) Pong')
 jogo = int(input('Qual jogo?'))
 
 if jogo == 1:
@@ -22,3 +23,6 @@ elif jogo == 3:
 elif jogo == 4:
     print('Jogando Jo Ken Po!')
     Jokenpo.jogar()
+elif jogo == 5:
+    print('Jogando Pong!')
+    pong.jogar()
